@@ -3,7 +3,7 @@ DIYWeatherStation
 
 PROJECT: DIY Weather Station
 created on Dec. 2013
-by IZ1ZCK (Enrico Gallesio)
+by IZ1ZCK
 
 Weather graphs (when available):
 https://thingspeak.com/channels/8836

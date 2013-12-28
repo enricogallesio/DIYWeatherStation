@@ -18,7 +18,7 @@ to allow wireless operation and remote Arduino Fio Programming
 More details coming soon on: http://sites.google.com/site/iz1zckweb/
 
 LICENSE:
-EXPEPT FOR ALL PARTS OF CODE I GOT ONLINE where other license restrictions may apply
+EXEPT FOR ALL PARTS OF CODE I GOT ONLINE where other license restrictions may apply
 (that's a lot! See Credits below) this project is released under 
 The MIT License (MIT) http://opensource.org/licenses/MIT
 The above copyright notice  shall be included in all copies or substantial portions of this Software.
